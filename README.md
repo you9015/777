@@ -9,3 +9,8 @@
 | 選修             | 智慧城市導論                  |
 | 星座           | 處女座                  |
 | 超連結           | <img src="https://github.com/you9015/777/blob/main/2323233.png" width=100 height=100>|                 
+音樂
+# 智慧路燈介紹1<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=r0XhFLDTD8E" target="_blank"><img src="http://img.youtube.com/vi/r0XhFLDTD8E/0.jpg" 
+alt="智慧路燈" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
